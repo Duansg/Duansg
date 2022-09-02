@@ -5,7 +5,7 @@
 My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 
 
-# I'm Wang Fei <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Duansg(XiaoDuan) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **HuoLaLa**
 - 🌱 I’m currently learning **NLP**
@@ -17,7 +17,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - ⚡ Fun fact: **LOL, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas-Wong)](https://github.com/Christmas-Wong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuansgXD)](https://github.com/Christmas-Wong/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
 
