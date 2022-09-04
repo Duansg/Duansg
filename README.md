@@ -27,10 +27,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 
 ![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
 
-
-<p align="center">
-<a href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
-</p>
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
