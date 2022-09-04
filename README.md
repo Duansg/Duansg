@@ -59,36 +59,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
-## 😐 But I'm still wondering...
-
-```rust
-struct AboutMe;
-
-impl AboutMe {
-    const READING_BOOK: &'static str = "The book of life";
-    const CURRENT_DEGREE: &'static str = "Master";
-    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
-}
-
-trait OpenSource {
-    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
-}
-
-impl OpenSource for AboutMe {}
-```
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
