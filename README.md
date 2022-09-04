@@ -17,10 +17,20 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - ⚡ Fun fact: **LOL, Movie**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuansgXD)](https://github.com/Christmas-Wong/github-readme-stats)
+|![](https://github-readme-stats.vercel.app/api?username=jasonkayzk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|[![jasonkayzk's github Stats](https://stats.justsong.cn/api/github?username=JasonkayZK&theme=dark)](https://github.com/JasonkayZK/jasonkayzk/)|
+|-|-|
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
 
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkayzk&layout=compact&theme=tokyonight&langs_count=10)|[![jasonkay's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=Jasonkay&theme=dark&cn=true)](https://leetcode-cn.com/u/jasonkay/)|
+|-|-|
+
+
+![](https://activity-graph.herokuapp.com/graph?username=jasonkayzk&theme=redical)
+
+
+<p align="center">
+<a href="https://chat.getloli.com/room/@JasonkayZK?title=JasonkayZK-chatroom"><img src="https://chat.getloli.com/room/@JasonkayZK/svg?width=750&height=340&limit=20&theme=light&title=JasonayZK@github:%20~&fontSize=13"></a>
+</p>
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
 
