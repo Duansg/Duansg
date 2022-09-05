@@ -15,12 +15,14 @@
 - ⚡ Fun fact: **Movie,Interesting**
 
 # About My Github
-|![](https://github-readme-stats.vercel.app/api?username=DuansgXD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuansgXD&layout=compact&theme=tokyonight&langs_count=10)|
+| ![](https://github-readme-stats.vercel.app/api?username=DuansgXD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuansgXD&layout=compact&theme=tokyonight&langs_count=10) |
+
 |-|-|
 
 
 ## 😐 Good sense asserted itself....
+
 <br/>  
 
 ![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
