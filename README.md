@@ -3,7 +3,7 @@
 </div>  
 
 
-# I'm Duansg(XiaoDuan) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm Duansg <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Zcy**
 - 🌱 I’m currently learning **Interesting knowledge**
