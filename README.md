@@ -11,7 +11,7 @@
 - 🤔 I love **Reading, Drinking**
 - 💬 Ask me about Java and my projects
 - 📫 How to reach me: **siguoduan@gmail.com**
-- 😄 You may like [Blog](https://duansgxd.github.io/)
+- 😄 You may like [Blog](https://duansg.github.io/)
 - ⚡ Fun fact: **Movie,Interesting**
 
 # About My Github
