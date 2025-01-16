@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Zcy**
 - 🌱 I’m currently learning **Interesting knowledge**
 - 👯 Currently working in **HangZhou, China**
-- 🤔 I love **Reading, Drinking**
+- 🤔 I love **Reading, Drinking, Coding**
 - 💬 Ask me about Java and my projects
 - 📫 How to reach me: **siguoduan@gmail.com**
 - 😄 You may like [Blog](https://duansg.github.io/)
