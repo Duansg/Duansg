@@ -4,6 +4,6 @@
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. 
 
 
-## Find me around the web 🌎 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif?raw=true"></a>
+## Find me around the web 🌎 <a href="https://github.com/Duansg"><img align="right" width="150" height="150" src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif?raw=true"></a>
 
-- How to reach me : <a href="siguoduan@gmail.com/">Gmail</a> 📫
+- How to reach me : <a href="mailto:siguoduan@gmail.com">Gmail</a> 📫
